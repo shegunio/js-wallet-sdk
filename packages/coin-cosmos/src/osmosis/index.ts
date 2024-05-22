@@ -1,2 +1,2 @@
-export * from "./aminotypes"
 export * from "./registry"
+export * from "./aminotypes"
